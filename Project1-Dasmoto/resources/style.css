@@ -1,0 +1,38 @@
+p {
+  font-family: Helvetica;
+}
+
+.dasmoto {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("images/pattern.jpg")
+}
+
+.fullwidth {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  width: 100pct
+}
+
+.lightgreen {
+  background-color: mediumspringgreen;
+}
+
+.lightred {
+  background-color: lightcoral;
+}
+
+.lightblue {
+  background-color: skyblue;
+}
+
+.start-price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
